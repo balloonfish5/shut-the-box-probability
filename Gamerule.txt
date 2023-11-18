@@ -1,0 +1,5 @@
+Shut the box (My version)
+Player starts with 9 tiles numbering from 1-9.
+Then player rolls the 2 dices and shut 1 or 2 tiles which sum is equal to the dice sum.
+The player wins if all the tiles are shut and loses when no combination of tiles sastify the dice sum.
+The winning chance when played perfectly in this case is 4.93581337725346%
